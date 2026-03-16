@@ -124,5 +124,5 @@ If you are building something ambitious in AI, working on complex programs that 
 ---
 
 <div align="center">
-<sub>📍 CA · Open to AI/ML TPM and Staff+ Program Management roles</sub>
+<sub> Use AI boldly. Stay human deeply.</sub>
 </div>
