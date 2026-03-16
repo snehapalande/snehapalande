@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Sneha 👋
+# Hi, I am Sneha 👋
 
 ### Technical Program Manager · AI & ML · Cross-functional Leadership
 
@@ -23,7 +23,7 @@ My superpower is **influencing without authority** I bring together engineering,
 
 ---
 
-## 🤖 What I'm Working On Now
+## 🤖 What I am Working On Now
 
 At **CSG**, I lead enterprise AI initiatives across the full spectrum:
 
