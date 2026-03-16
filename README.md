@@ -17,9 +17,9 @@
 
 ## 🧭 What I Do
 
-I'm a **Principal Technical Program Manager** with 12+ years of experience leading high-impact programs across **AI/ML, autonomous systems, connected devices, e-commerce, and FinTech** — at companies like **CSG, Walmart Labs, Amazon, Ford, and Hyundai Mobis**.
+I am a **Principal Technical Program Manager** with 12+ years of experience leading high-impact programs across **AI/ML, autonomous systems, connected devices, e-commerce, and FinTech** at companies like **CSG, Walmart Labs, Amazon, Ford, and Hyundai Mobis**.
 
-My superpower is **influencing without authority** — I bring together engineering, data, product, legal, and executive stakeholders and create the organizational clarity that makes distributed teams move fast and build well.
+My superpower is **influencing without authority** I bring together engineering, data, product, legal, and executive stakeholders and create the organizational clarity that makes distributed teams move fast and build well.
 
 ---
 
@@ -82,16 +82,16 @@ Autonomous Systems                ██████████████░�
 
 ---
 
-## 🗂️ Programs I've Led
+## 🗂️ Programs I have Led
 
 ### 🛍️ E-commerce & FinTech — Walmart Labs
-Led Protection Services, Money Services, and Walmart ONE — AI-first product roadmaps across 5+ teams, delivering 15% revenue growth and 20% customer satisfaction improvement.
+Led Protection Services, Money Services, and Walmart ONE - AI-first product roadmaps across 5+ teams, delivering 15% revenue growth and 20% customer satisfaction improvement.
 
 ### 🏥 Health AI — Amazon Halo
 Drove ML data integration for personalized fitness features. Built pipelines using SQL and Python, scaling from 100 to 500 MAU. Partnered with ML, privacy, and legal teams for end-to-end delivery.
 
 ### 🚗 Autonomous Driving — Hyundai Mobis
-Directed a multidisciplinary engineering team through full-lifecycle development of L2 and L3 autonomous driving software — from architecture to on-road validation — securing follow-on executive funding.
+Directed a multidisciplinary engineering team through full-lifecycle development of L2 and L3 autonomous driving software from architecture to on-road validation, securing follow-on executive funding.
 
 ### 📱 Connected Vehicles — Ford Motor Company
 Led development of FordPass and LincolnWay apps on Azure, improving CSAT by 40% through iterative, MVP-first delivery and Agile transformation across global teams.
@@ -109,20 +109,20 @@ Led development of FordPass and LincolnWay apps on Azure, improving CSAT by 40% 
 
 ## 💬 My Leadership Philosophy
 
-> *"The best programs don't succeed because of the plan — they succeed because of the people who believe in it. My job is to build that belief."*
+> *"The best programs don't succeed because of the plan, they succeed because of the people who believe in it. My job is to build that belief."*
 
-I lead through **influence, trust, and technical credibility** — not hierarchy. Whether I'm aligning a C-suite roadmap or unblocking an engineering team mid-sprint, I show up with clarity, empathy, and a bias toward action.
+I lead through **influence, trust, and technical credibility** — not hierarchy. Whether I am aligning a C-suite roadmap or unblocking an engineering team mid-sprint, I show up with clarity, empathy, and a bias toward action.
 
 ---
 
 ## 📫 Let's Connect
 
-If you're building something ambitious in AI, working on complex programs that need structure and momentum, or just want to talk shop about autonomous systems, health AI, or what makes great cross-functional teams — reach out.
+If you are building something ambitious in AI, working on complex programs that need structure and momentum, or just want to talk shop about Autonomous systems, AI, Ecommerce or Fintech what makes great cross-functional teams, reach out.
 
 [![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/snehapalande)
 
 ---
 
 <div align="center">
-<sub>📍 Sunnyvale, CA · Open to AI/ML TPM and Staff+ Program Management roles</sub>
+<sub>📍 CA · Open to AI/ML TPM and Staff+ Program Management roles</sub>
 </div>
