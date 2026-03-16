@@ -9,7 +9,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-snehapalande-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/snehapalande)
 [![Email](https://img.shields.io/badge/Email-palandesneha@yahoo.com-6D4AFF?style=flat&logo=yahoo&logoColor=white)](mailto:palandesneha@yahoo.com)
-[![Location](https://img.shields.io/badge/Location-Sunnyvale%2C%20CA-34A853?style=flat&logo=googlemaps&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/Location-California%2C%20CA-34A853?style=flat&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
